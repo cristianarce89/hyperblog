@@ -5,3 +5,4 @@ cristian tiene 33 años y nacio en colombia, viviendo en todo el mundo
 hoy hablaremos de su historia
 
 es hermoso y alto.
+Hoy es 17/05/2022 fecha en que aprende git y github
